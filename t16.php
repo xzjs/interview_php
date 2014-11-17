@@ -1,7 +1,7 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<h1>旋转数组最小值</h1>
+<h2>输入一个递增排序数组的一个旋转，输出旋转数组的最小值</h2>
 <?php
-	//旋转数组最小值
-	//输入一个递增排序数组的一个旋转，输出旋转数组的最小值
-	
 	function getMinOfRotation(&$arrA){
 		$left=0;
 		$right=count($arrA)-1;
