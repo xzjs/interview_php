@@ -153,5 +153,16 @@
 <h1>树的镜像</h1>
 <h2>给出一棵二叉树，使用非递归的方法判断是否为其自身镜像</h2>
 <?php
-   
+    function isSymmetric($root){
+        if($root==null){
+            return true;
+        }
+        $left=array();
+        $right=array();
+        array_push($left,$root->left);
+        array_push($right,$root->right);
+        while(count($left)!=0&&count($right!=0)){
+
+        }
+    }
 ?>
