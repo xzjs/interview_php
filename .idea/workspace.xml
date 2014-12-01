@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="573799a0-32df-479b-a0f8-dd15fa9f5011" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t33.php" afterPath="$PROJECT_DIR$/t33.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="interview_php.iws" />
@@ -32,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/t33.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.73144877" vertical-offset="1581" max-vertical-offset="2166">
-              <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+              <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
               <folding>
                 <element signature="n#TreeNode#0;n#!!top" expanded="false" />
                 <element signature="n#BinaryTree#0;n#!!top" expanded="false" />
@@ -195,13 +194,20 @@
       <option name="project" value="LOCAL" />
       <updated>1417249484758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="谢了好多，这儿都不知道改因为写什么了">
+      <created>1417403211052</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1417403211052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="697" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -218,7 +224,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30031446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -242,7 +247,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="谢了好多，这儿都不知道改写什么了" />
-    <option name="LAST_COMMIT_MESSAGE" value="谢了好多，这儿都不知道改写什么了" />
+    <MESSAGE value="谢了好多，这儿都不知道改因为写什么了" />
+    <option name="LAST_COMMIT_MESSAGE" value="谢了好多，这儿都不知道改因为写什么了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,7 +312,7 @@
     <entry file="file://$PROJECT_DIR$/t33.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73144877" vertical-offset="1581" max-vertical-offset="2166">
-          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
           <folding>
             <element signature="n#TreeNode#0;n#!!top" expanded="false" />
             <element signature="n#BinaryTree#0;n#!!top" expanded="false" />
